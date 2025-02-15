@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vjdev" alt="vjdev" /></a> </p>
 
-- 🌱 I’m currently learning **Combine, Async/Await, SwiftUI**
-
-- 🤝 I’m looking for help with [MovieApp](https://github.com/vjdev/MovieApp.git)
-
 - 📫 How to reach me **vijeeshcodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
