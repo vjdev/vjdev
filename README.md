@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [MovieApp](https://github.com/vjdev/MovieApp.git)
 
-- 📫 How to reach me **vijeescodes@gmail.com**
+- 📫 How to reach me **vijeeshcodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
